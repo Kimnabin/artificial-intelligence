@@ -1,0 +1,10 @@
+# .gitignore 파일
+
+
+# 일반적으로 제외하는 폴더 및 파일
+.venv/
+.idea/
+models/
+__pycache__/
+*.pyc
+.DS_Store
