@@ -1,58 +1,69 @@
-# AI learning journey
+```markdown
+# AI 학습 여정
 
-Welcome to this repository!  This is a place to store all materials, tasks, projects and notes related to the artificial intelligence (AI) learning process.  It includes both the knowledge learned in university classes and the discoveries obtained in the personal learning process.
+이 저장소에 오신 것을 환영합니다! 이곳은 인공 지능(AI) 학습 과정과 관련된 모든 자료, 작업, 프로젝트 및 노트를 저장하는 공간입니다. 여기에는 대학 수업에서 배운 지식과 개인 학습 과정에서 얻은 발견이 모두 포함됩니다.
 
-## target
+## 목표
 
-This repository is made with the following goals:
+이 저장소는 다음과 같은 목표로 만들어졌습니다.
 
-*** Knowledge storage and systemization: ** Easily track the progress of learning and help you to review your knowledge when needed.
-*** Knowledge sharing: ** It can help others, especially beginners.
-*** Portfolio construction: ** Shows the skills and knowledge acquired in the field of AI.
+*   **지식 저장 및 체계화:** 학습 진행 상황을 쉽게 추적하고 필요할 때 지식을 복습하는 데 도움이 됩니다.
+*   **지식 공유:** 다른 사람들, 특히 초보자에게 도움이 될 수 있습니다.
+*   **포트폴리오 구성:** AI 분야에서 습득한 기술과 지식을 보여줍니다.
 
-## detail
+## 구성
 
-This repository is configured as follows:
+```
+AI 학습 여정/
+├── Week1/
+│   └── Week 1 -AI 소개/  (예: 강의 1 -AI 소개)
+├── Week2/
+│   └── Week 2- / (예: week 2 -AI 소개, KNN-알고리즘, KNN모델 활용방법), 데이터를 로컬 불러오기, 웹주소에 불러오기, 데이터를 분할 + 이상치 제거...
+└── Week 3 - Car_evaluation, Diabetes 분류, 회귀...
+│
+└── Week 4 - 
+│
+└── Week 5 -
+│
+└── Week 6 -
 
-** `Week1/`: ** (This folder includes the contents of the class lecture)
-    * `Week 1 -Introduction to AI/`: ​​(Example: Lecture 1 -AI Introduction)
 
-***`Week2/`: ** (This folder includes the contents of the class lecture)
-    * `Week 2- /`: (Example: week 2 -AI Introduction, KNN-알고리즘, KNN모뎉 활용방법), 데이터를 로컬 불러오기, 웹주소에 불러오기, 데이터를 분할 + 이상치 제거...
-                  
+```
 
+각 폴더는 주차별 학습 내용을 담고 있습니다.
 
-## Major topic
+## 주요 주제
 
-In the learning process, I focus on the following topics:
+학습 과정에서 다음 주제에 집중합니다.
 
-***Machine learning algorithm: **
-    * Linear and nonlinear regression
-    * Logistic Regression, SVM, Decision Trees, Random Forest)
-    * Clustering (K-Means, Hierarchical Clustering)
-** Deep learning: **
-    * Synthesis Neural Network (CNN)
-    * Circulation neural network (RNN)
-    * Transformers
-** Natural language processing (NLP): **
-    * Word Embeddings (Word2vec, Glove)
-    * Text classification
-    * Sequence-to-sequence models
-**Reinforcement learning **
-*** Computer Vision: **
-    * Object Detection
-    * IMAGE SEGMENTATION
+*   **머신 러닝 알고리즘:**
+    *   선형 및 비선형 회귀
+    *   로지스틱 회귀, SVM, 의사 결정 트리, 랜덤 포레스트
+    *   클러스터링 (K-평균, 계층적 클러스터링)
+*   **딥 러닝:**
+    *   합성곱 신경망 (CNN)
+    *   순환 신경망 (RNN)
+    *   트랜스포머
+*   **자연어 처리 (NLP):**
+    *   단어 임베딩 (Word2vec, Glove)
+    *   텍스트 분류
+    *   시퀀스-투-시퀀스 모델
+*   **강화 학습**
+*   **컴퓨터 비전:**
+    *   객체 탐지
+    *   이미지 분할
 
-## Tools and libraries
+## 도구 및 라이브러리
 
-Use the following tools and libraries:
+다음 도구 및 라이브러리를 사용합니다.
 
-** Python: ** Main programming language.
-** numpy: ** numerical calculation library.
-** pandas: ** Data processing library.
-** Scikit-Learn: ** Machine learning library.
-** Tensorflow: ** Deep learning framework.
-** keras: ** Tensorflow high level API.
-** PyTorch: ** Deep learning framework.
-** matplotlib & seaborn: ** Data visualization library.
-** Jupyter Notebook: ** Code Development and presentation environment.
+*   **Python:** 주요 프로그래밍 언어.
+*   **numpy:** 수치 계산 라이브러리.
+*   **pandas:** 데이터 처리 라이브러리.
+*   **Scikit-Learn:** 머신 러닝 라이브러리.
+*   **Tensorflow:** 딥 러닝 프레임워크.
+*   **keras:** Tensorflow 고수준 API.
+*   **PyTorch:** 딥 러닝 프레임워크.
+*   **matplotlib & seaborn:** 데이터 시각화 라이브러리.
+*   **Jupyter Notebook:** 코드 개발 및 프레젠테이션 환경.
+```
